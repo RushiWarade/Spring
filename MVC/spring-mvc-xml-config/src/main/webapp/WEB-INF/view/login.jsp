@@ -11,5 +11,7 @@
 <body>
 <h1>Login Page</h1>
 
+<a href="home" >Home</a>
+
 </body>
 </html>
